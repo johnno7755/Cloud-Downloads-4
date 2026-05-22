@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-6662",
+  "folder": "Software__FutaConcoctionCh5P2_Fix_20260522080340_ad8103",
+  "base_name": "Software__FutaConcoctionCh5P2_Fix_20260522080340_ad8103.apk",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/johnno7755/Cloud-Downloads-4/releases/tag/co-releases-v1-6662",
+  "files": [
+    {
+      "name": "Software__FutaConcoctionCh5P2_Fix_20260522080340_ad8103.apk",
+      "url": "https://github.com/johnno7755/Cloud-Downloads-4/releases/download/co-releases-v1-6662/Software__FutaConcoctionCh5P2_Fix_20260522080340_ad8103.apk",
+      "api_url": "https://api.github.com/repos/johnno7755/Cloud-Downloads-4/releases/assets/426889424",
+      "id": 426889424,
+      "size": 1154513672,
+      "download_count": 0
+    }
+  ]
+}
